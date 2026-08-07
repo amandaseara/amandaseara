@@ -19,6 +19,7 @@ y trabajo colaborativo en todas las etapas del proyecto.
 `Python` `FastAPI` `PostgreSQL` `React` `Pytest`
 
 **Sistema de gestión académica — Reto UCU Ithaka** (julio 2026, 3 semanas)
+[Ver repositorio](https://github.com/ucudal/reto-winter-2026-ithaka-backend.git)
 Lead backend en equipo de 7 dentro de un equipo de 18 estudiantes. Diseñé la 
 API REST y la lógica de negocio del sistema.
 `Python` `FastAPI` `PostgreSQL`
